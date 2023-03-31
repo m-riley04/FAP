@@ -11,7 +11,7 @@ No, not THAT kind of fap. This is a Python program that, when given a file name,
 
 ## Screenshots
 
-![Code Snippet](https://restlessmedicine.files.wordpress.com/2023/03/sd-fap-example.jpg?w=768)
+![Code Snippet](https://restlessmedicine.files.wordpress.com/2023/03/sd-fap-codesnip.jpg?w=768)
 
 ![Run Example](https://restlessmedicine.files.wordpress.com/2023/03/sd-fap-example.jpg?w=768)
 
